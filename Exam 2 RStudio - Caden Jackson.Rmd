@@ -1,0 +1,27 @@
+---
+title: "Exam2"
+author: "Caden Jackson, cj24694"
+date: "6/28/21"
+output:
+  word_document: default
+  html_document: default
+---
+
+#clear environment 
+rm(list=ls(all=TRUE))
+
+#load and name "college_scorecard" 
+
+#summary statistics "college_scorecard"
+summary(college_scorecard)
+
+#load and name "avocados" 
+
+#load and name "training"
+
+#load and name "titanic" 
+
+#summary statistics titanic 
+summary(titanic)
+
+#Bonus: "My Heart Will Go On" by Celine Dion
